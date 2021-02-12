@@ -5,5 +5,5 @@
 
 
 <p align="center">
-<img align="center" src="http://24.media.tumblr.com/tumblr_m8naz2Hsfc1rciojso1_400.gif"/>
+<img align="center" border-radius="5px" src="http://24.media.tumblr.com/tumblr_m8naz2Hsfc1rciojso1_400.gif"/>
 </p>
