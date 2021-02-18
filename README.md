@@ -17,6 +17,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img src="https://it.wikipedia.org/wiki/Dart_(linguaggio)#/media/File:Dart_programming_language_logo.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="40" height="40"/> </a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerviFix&show_icons=true&locale=en&layout=compact" alt="BerviFix" /></p>
