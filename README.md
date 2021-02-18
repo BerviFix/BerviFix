@@ -18,4 +18,4 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerviFix&show_icons=true&locale=en&layout=compact" alt="BerviFix" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BerviFix&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="BerviFix" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BerviFix&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=CFF601" alt="BerviFix" /></p>
