@@ -21,5 +21,11 @@
 <a href="https://flutter.dev/" target="_blank"> <img src="https://svgur.com/i/U8d.svg" alt="flutter" width="80" height="40"/> </a>
 </p>
 
+<h3 align="center">I use:</h3>
+<p align="center">
+<a href="https://github.com/" target="_blank"> <img src="https://diego-slicecode.dev/img/github.png" alt="github" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://diego-slicecode.dev/img/visual-studio-code.png" alt="vscode" width="40" height="40"/> </a>
+</p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerviFix&show_icons=true&locale=en&layout=compact" alt="BerviFix" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BerviFix&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=CFF601" alt="BerviFix" /></p>
