@@ -27,7 +27,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://diego-slicecode.dev/img/visual-studio-code.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.gitkraken.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" alt="gitkraken" width="40" height="40"/> </a>
 <a href="https://www.mamp.info/" target="_blank"> <img src="https://www.mamp.info/images/icons/mamp-pro.png" alt="mamp" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://ibb.co/1rd2bVW" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerviFix&show_icons=true&locale=en&layout=compact" alt="BerviFix" /></p>
