@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simone Bervicato</h1>
-<h3 align="center">I'm a junior software developer from Cremona 🎻, Italy. </h3>
+<h3 align="center">I'm a software developer from Cremona 🎻, Italy. </h3>
 
 
 
